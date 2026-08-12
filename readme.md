@@ -1,5 +1,5 @@
 
-![code-completion.webp](./code-completion.webp)
+![Koi Editor GitHub Banner](./banner.png)
 
 # Issue tracker for Koi Editor
 
