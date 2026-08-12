@@ -1,5 +1,5 @@
 
-![Koi Editor GitHub Banner](./banner.png)
+![Koi Editor GitHub Banner](./github_banner.png)
 
 # Issue tracker for Koi Editor
 
