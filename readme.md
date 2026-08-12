@@ -1,5 +1,5 @@
 
-![./code-completion.webp]
+![code-completion.webp](./code-completion.webp)
 
 # Issue tracker for Koi Editor
 
